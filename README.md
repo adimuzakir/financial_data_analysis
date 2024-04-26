@@ -9,16 +9,16 @@ Proyek ini berfokus pada analisis data keuangan perusahaan untuk tahun 2023. Dat
 - Menyusun rekomendasi strategis untuk meningkatkan pendapatan dan efisiensi bisnis.
 ## Langkah-Langkah Proyek
 1. Preprocessing Data:
-  - Membersihkan data dari nilai yang hilang atau tidak konsisten.
-  - Mengonversi kolom tanggal menjadi tipe datetime untuk memungkinkan analisis berdasarkan waktu.
-  - Mengelompokkan data berdasarkan bulan untuk analisis tren dan pola musiman.
+    - Membersihkan data dari nilai yang hilang atau tidak konsisten.
+    - Mengonversi kolom tanggal menjadi tipe datetime untuk memungkinkan analisis berdasarkan waktu.
+    - Mengelompokkan data berdasarkan bulan untuk analisis tren dan pola musiman.
 2. Analisis Pendapatan dan Laba:
-  - Menghitung statistik deskriptif seperti rata-rata, median, maksimum, minimum, dan standar deviasi untuk pendapatan, biaya, dan laba.
-  - Membuat grafik untuk menunjukkan tren bulanan pendapatan dan laba selama tahun 2023.
-  - Menghitung rasio laba terhadap biaya setiap bulan dan memvisualisasikannya dalam grafik.
+    - Menghitung statistik deskriptif seperti rata-rata, median, maksimum, minimum, dan standar deviasi untuk pendapatan, biaya, dan laba.
+    - Membuat grafik untuk menunjukkan tren bulanan pendapatan dan laba selama tahun 2023.
+    - Menghitung rasio laba terhadap biaya setiap bulan dan memvisualisasikannya dalam grafik.
 3. Model Prediktif:
-  - Menggunakan regresi linier untuk memprediksi pendapatan berdasarkan biaya.
-  - Menggunakan model ARIMA untuk memproyeksikan pendapatan tahun 2024 berdasarkan tren dari tahun 2023.
+    - Menggunakan regresi linier untuk memprediksi pendapatan berdasarkan biaya.
+    - Menggunakan model ARIMA untuk memproyeksikan pendapatan tahun 2024 berdasarkan tren dari tahun 2023.
 ## Hasil dan Temuan
 - Statistik Deskriptif: Analisis menunjukkan bahwa pendapatan dan laba mengalami fluktuasi sepanjang tahun 2023. Laba cenderung dipengaruhi oleh biaya operasional yang bervariasi.
 - Tren Pendapatan dan Laba: Grafik menunjukkan tren bulanan pendapatan dan laba, dengan beberapa bulan menunjukkan peningkatan signifikan dan bulan lainnya mengalami penurunan.
